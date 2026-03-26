@@ -5,8 +5,8 @@
   "framework": "vite",
   "outputDirectory": "dist",
   "env": {
-    "VITE_ANALYTICS_ENDPOINT": "@vite_analytics_endpoint",
-    "VITE_ANALYTICS_WEBSITE_ID": "@vite_analytics_website_id",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "ecee0d93-878f-4b93-b1c9-0db2a13c3f6f",
     "VITE_APP_ID": "@vite_app_id",
     "VITE_APP_LOGO": "@vite_app_logo",
     "VITE_APP_TITLE": "@vite_app_title",
